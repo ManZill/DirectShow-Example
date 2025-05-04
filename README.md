@@ -14,7 +14,7 @@ A C-based example project demonstrating video capture using Microsoft's DirectSh
 - Windows SDK with DirectShow headers and libraries.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/directshow-example.git`
+1. Clone the repository: `git clone https://github.com/ManZill/DirectShow-Example.git`
 2. Open the project in Visual Studio.
 3. Ensure the Windows SDK is installed and configured.
 4. Build and run the project to enumerate and preview video from connected devices.
